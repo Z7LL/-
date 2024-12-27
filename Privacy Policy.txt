@@ -1,0 +1,57 @@
+Privacy Policy for مواقيت
+
+Effective Date: 27/12/2024
+
+1. Introduction
+مواقيت (“we,” “our,” or “us”) respects your privacy and is committed to protecting it. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our program مواقيت (“the Program”). By using the Program, you agree to the terms outlined in this Privacy Policy.
+
+2. Information We Collect
+The Program may collect the following types of information:
+
+Internet Access: To fetch accurate prayer times for your location, the Program accesses the internet to retrieve data from trusted prayer time calculation services.
+
+Location Data: The Program may use your device’s location to determine the prayer times specific to your region. This data is not stored or shared.
+
+System Access: The Program interacts with Windows components, including the Win32 API, to provide notifications and play sounds at the scheduled prayer times.
+
+3. How We Use Your Information
+The collected information is used solely to:
+
+Retrieve and display accurate prayer times based on your location.
+
+Notify you of prayer times through desktop notifications.
+
+Play audio reminders for prayer times.
+
+4. Data Sharing and Disclosure
+We do not sell, share, or disclose your personal information to third parties, except as necessary to:
+
+Comply with legal obligations.
+
+Protect and defend our rights and property.
+
+5. Security
+We implement reasonable technical and organizational measures to protect your information from unauthorized access, use, or disclosure. However, no security measure is perfect, and we cannot guarantee complete protection.
+
+6. Third-Party Services
+The Program may access prayer time data from third-party websites or services. We are not responsible for the privacy practices of these third parties. We recommend reviewing their privacy policies.
+
+7. Notifications and Sounds
+The Program sends notifications and plays sounds at prayer times. These features require access to your system’s notification and sound systems. You can disable notifications and sound reminders within the Program settings.
+
+8. Your Choices
+You have the right to:
+
+Opt-out of location services by disabling location access in your device settings.
+
+Disable notifications and sound reminders through the Program settings.
+
+9. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected in the “Effective Date” at the top of this policy. We encourage you to review this Privacy Policy periodically.
+
+10. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+m9arwan9999@gmail.com
+
+Thank you for using مواقيت. Your trust is important to us.
